@@ -1,0 +1,9 @@
+[user]
+	username = jwiegley
+	name = John Wiegley
+	location = California, USA
+	website = http://www.newartisans.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = jwiegley

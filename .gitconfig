@@ -1,8 +1,10 @@
 [user]
 	username = jwiegley
 	name = John Wiegley
+        email = johnw@newartisans.com
 	location = California, USA
 	website = http://www.newartisans.com
+        signingkey = 4710cf98af9b327bb80f60e146c4bd1a7ac14ba2
 [commit]
 	gpgsign = true
 [aliases]
